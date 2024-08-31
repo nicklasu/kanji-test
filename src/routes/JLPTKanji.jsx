@@ -77,7 +77,6 @@ const JLPTKanji = () => {
       ) : (
         <div>
           <TestResults kanjiArray={jlptKanjiByLevel} />
-          <p>Here are all the kanji you encountered:</p>
           <KanjiList kanjiArray={jlptKanjiByLevel} />
         </div>
       )}
