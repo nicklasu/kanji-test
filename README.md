@@ -1,3 +1,7 @@
+# Production deployment
+The app is deployed in the link below:
+https://kanji-test-rho.vercel.app/
+
 # kanji-test
 This is a kanji testing application for those who are interested in knowing their JLPT kanji knowledge level. 
 
